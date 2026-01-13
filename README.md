@@ -1,6 +1,6 @@
 # Security Analyst - Projects (Udacity Nanodegree)
 
-**For this project we will be assuming the role of an Information Security Analyst for an industrial manufacturing company in the Midwest-US.**
+For this project we will be assuming the role of an **Information Security Analyst** for an industrial manufacturing company in the Midwest-US.
 
 The listed projects were part of my Udacity Security Analyst Nanodegree and are displayed in derivated form due to copyright restrictions.
 
