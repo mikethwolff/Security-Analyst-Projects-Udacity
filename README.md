@@ -22,7 +22,7 @@ Requirements for this project include:
 Read on: [Planning for Security Controls](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Planning%20for%20Security%20Controls)
 
 
-## Project 2: Insecure Web Application
+## Project 2: Audit and Analysis
 The first request is an architecture diagram of the application and logs from right before the application went down. At a quick glance you we notice that the architecture is designed woefully. 
 
 1. Asset Inventory
